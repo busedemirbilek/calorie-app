@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "118165596311",
+    "project_id": "pr-kalorapp",
+    "storage_bucket": "pr-kalorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118165596311:android:f8db189285457a9a8761d2",
+        "android_client_info": {
+          "package_name": "com.example.ali.kalorihesaplama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118165596311-2odi74vfu40gntvpc948ggo6ho20jtqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHFKNpMjFMP8a2VMSojAiVjTknzqYaug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118165596311-2odi74vfu40gntvpc948ggo6ho20jtqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118165596311:android:5caa1f59161b533e8761d2",
+        "android_client_info": {
+          "package_name": "com.example.pr_kalorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118165596311-2odi74vfu40gntvpc948ggo6ho20jtqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKHFKNpMjFMP8a2VMSojAiVjTknzqYaug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118165596311-2odi74vfu40gntvpc948ggo6ho20jtqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
